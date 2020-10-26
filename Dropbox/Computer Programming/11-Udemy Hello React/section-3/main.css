@@ -1,0 +1,41 @@
+.red {
+	height: 50px;
+	width: 150px;
+	background: red;
+}
+
+.orange {
+	height: 50px;
+	width: 150px;
+	background: orange;
+}
+
+.yellow {
+	height: 50px;
+	width: 150px;
+	background: yellow;
+}
+
+.green {
+	height: 50px;
+	width: 150px;
+	background: green;
+}
+
+.blue {
+	height: 50px;
+	width: 150px;
+	background: blue;
+}
+
+.indigo {
+	height: 50px;
+	width: 150px;
+	background: indigo;
+}
+
+.violet {
+	height: 50px;
+	width: 150px;
+	background: violet;
+}
